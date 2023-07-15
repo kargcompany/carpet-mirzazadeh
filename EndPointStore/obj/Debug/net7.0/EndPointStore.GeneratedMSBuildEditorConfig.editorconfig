@@ -9,149 +9,149 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EndPointStore
 build_property.RootNamespace = EndPointStore
-build_property.ProjectDir = C:\Carpet\EndPointStore\
+build_property.ProjectDir = E:\Carpet2\EndPointStore\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Carpet\EndPointStore
+build_property.MSBuildProjectDirectory = E:\Carpet2\EndPointStore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Carpet/EndPointStore/Areas/Admin/Views/Brands/Index.cshtml]
+[E:/Carpet2/EndPointStore/Areas/Admin/Views/Brands/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnJhbmRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Areas/Admin/Views/Categories/Index.cshtml]
+[E:/Carpet2/EndPointStore/Areas/Admin/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Areas/Admin/Views/FileManager/Index.cshtml]
+[E:/Carpet2/EndPointStore/Areas/Admin/Views/FileManager/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmlsZU1hbmFnZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Areas/Admin/Views/Products/Create.cshtml]
+[E:/Carpet2/EndPointStore/Areas/Admin/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Areas/Admin/Views/Products/Edit.cshtml]
+[E:/Carpet2/EndPointStore/Areas/Admin/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Areas/Admin/Views/Products/Index.cshtml]
+[E:/Carpet2/EndPointStore/Areas/Admin/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Areas/Admin/Views/Results/Index.cshtml]
+[E:/Carpet2/EndPointStore/Areas/Admin/Views/Results/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVzdWx0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+[E:/Carpet2/EndPointStore/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Areas/Admin/Views/Sliders/Index.cshtml]
+[E:/Carpet2/EndPointStore/Areas/Admin/Views/Sliders/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Areas/Admin/Views/Users/Create.cshtml]
+[E:/Carpet2/EndPointStore/Areas/Admin/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Areas/Admin/Views/Users/Edit.cshtml]
+[E:/Carpet2/EndPointStore/Areas/Admin/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Areas/Admin/Views/Users/Index.cshtml]
+[E:/Carpet2/EndPointStore/Areas/Admin/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Authentication/Login.cshtml]
+[E:/Carpet2/EndPointStore/Views/Authentication/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Authentication/SignUp.cshtml]
+[E:/Carpet2/EndPointStore/Views/Authentication/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU2lnblVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Cart/Index.cshtml]
+[E:/Carpet2/EndPointStore/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Home/Index.cshtml]
+[E:/Carpet2/EndPointStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Home/Privacy.cshtml]
+[E:/Carpet2/EndPointStore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Products/Detail.cshtml]
+[E:/Carpet2/EndPointStore/Views/Products/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Products/Index.cshtml]
+[E:/Carpet2/EndPointStore/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/Components/AddressUser/AddressUser.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/Components/AddressUser/AddressUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRkcmVzc1VzZXJcQWRkcmVzc1VzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/Components/Backet/Backet.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/Components/Backet/Backet.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmFja2V0XEJhY2tldC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/Components/CartTable/CartTable.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/Components/CartTable/CartTable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFRhYmxlXENhcnRUYWJsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/Components/Cart/Cart.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/Components/Cart/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/Components/City/City.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/Components/City/City.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2l0eVxDaXR5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/Components/DetailEditAddressUser/DetailEditAddressUser.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/Components/DetailEditAddressUser/DetailEditAddressUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGV0YWlsRWRpdEFkZHJlc3NVc2VyXERldGFpbEVkaXRBZGRyZXNzVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/Components/EditCity/EditCity.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/Components/EditCity/EditCity.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRWRpdENpdHlcRWRpdENpdHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/Components/EditProvince/EditProvince.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/Components/EditProvince/EditProvince.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRWRpdFByb3ZpbmNlXEVkaXRQcm92aW5jZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/Components/MenuCategory/MenuCategory.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/Components/MenuCategory/MenuCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUNhdGVnb3J5XE1lbnVDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/Components/Province/Province.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/Components/Province/Province.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJvdmluY2VcUHJvdmluY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/Components/Search/Search.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/Components/Search/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VhcmNoXFNlYXJjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/Error.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/_ViewImports.cshtml]
+[E:/Carpet2/EndPointStore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/_ViewStart.cshtml]
+[E:/Carpet2/EndPointStore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Carpet/EndPointStore/Views/Shared/_Layout.cshtml]
+[E:/Carpet2/EndPointStore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-96aypqljgj

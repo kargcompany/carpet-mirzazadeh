@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Carpet\\Store.Domain\\Store.Domain.csproj": {}
+    "E:\\Carpet2\\Store.Domain\\Store.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Carpet\\Store.Common\\Store.Common.csproj": {
+    "E:\\Carpet2\\Store.Common\\Store.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Carpet\\Store.Common\\Store.Common.csproj",
+        "projectUniqueName": "E:\\Carpet2\\Store.Common\\Store.Common.csproj",
         "projectName": "Store.Common",
-        "projectPath": "C:\\Carpet\\Store.Common\\Store.Common.csproj",
-        "packagesPath": "C:\\Users\\Mosys\\.nuget\\packages\\",
-        "outputPath": "C:\\Carpet\\Store.Common\\obj\\",
+        "projectPath": "E:\\Carpet2\\Store.Common\\Store.Common.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "E:\\Carpet2\\Store.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Mosys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,21 +68,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Carpet\\Store.Domain\\Store.Domain.csproj": {
+    "E:\\Carpet2\\Store.Domain\\Store.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Carpet\\Store.Domain\\Store.Domain.csproj",
+        "projectUniqueName": "E:\\Carpet2\\Store.Domain\\Store.Domain.csproj",
         "projectName": "Store.Domain",
-        "projectPath": "C:\\Carpet\\Store.Domain\\Store.Domain.csproj",
-        "packagesPath": "C:\\Users\\Mosys\\.nuget\\packages\\",
-        "outputPath": "C:\\Carpet\\Store.Domain\\obj\\",
+        "projectPath": "E:\\Carpet2\\Store.Domain\\Store.Domain.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "E:\\Carpet2\\Store.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Mosys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,8 +99,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Carpet\\Store.Common\\Store.Common.csproj": {
-                "projectPath": "C:\\Carpet\\Store.Common\\Store.Common.csproj"
+              "E:\\Carpet2\\Store.Common\\Store.Common.csproj": {
+                "projectPath": "E:\\Carpet2\\Store.Common\\Store.Common.csproj"
               }
             }
           }
@@ -130,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
